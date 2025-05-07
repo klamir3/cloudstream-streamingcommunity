@@ -1,0 +1,11 @@
+{
+  "name": "StreamingCommunityRepo",
+  "description": "Repository per l'estensione StreamingCommunity",
+  "plugins": [
+    {
+      "name": "StreamingCommunity",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/TuoUsername/cloudstream-streamingcommunity/main/StreamingCommunity/manifest.json"
+    }
+  ]
+}
