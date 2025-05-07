@@ -1,1 +1,10 @@
-
+{
+  "name": "StreamingCommunity",
+  "description": "Estensione per StreamingCommunity.spa",
+  "language": "it",
+  "plugin_version": "1.0.0",
+  "version": 1,
+  "url": "https://streamingcommunity.spa",
+  "type": "media",
+  "id": "streamingcommunity"
+}
